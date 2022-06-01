@@ -1,6 +1,6 @@
-Enter: Type Size A B Path 
+Enter: Type A B Size Path 
 ------------------------------
 Type = Normal/Uniform/Poisson
-Size >= 10000
 A,B = double (parameters) 
+Size >= 10000
 Path = path to output
